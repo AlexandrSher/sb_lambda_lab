@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "aws_region": "eu-west-1",
+        "profile_name": "asb",
+        "project_name": "flask-app",
+        "runtime": "python3.6",
+        "s3_bucket": "zappa-7ljbaya45"
+    }
+}
